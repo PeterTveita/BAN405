@@ -1,0 +1,1 @@
+BAN405 COVID-19 deaths assignment starter bundle\nFiles included:\n - ban405_covid_deaths_assignment.ipynb\n\nBefore running, create a 'data/' folder next to the notebook and place:\n  * time_series_covid19_deaths_global.csv\n  * Countries Continents.csv\nOr let the notebook try to fetch them from public GitHub URLs.\n
