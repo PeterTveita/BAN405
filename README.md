@@ -4,7 +4,7 @@ This repository contains my notes, assignments and notebooks for the course **BA
 
 ## Repository Structure
 
-- **Assignment/** – Weekly exercises  
+- **Assignment/** – Mandatory assignments
 - **Lectures/** – Jupyter notebooks from lectures  
 - **Conclusions/** – Solutions from teacher
 - **Exam/** – Practice material and old tasks  
