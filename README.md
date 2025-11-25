@@ -6,6 +6,6 @@ This repository contains my notes, assignments and notebooks for the course **BA
 
 - **Assignment/** – Weekly exercises  
 - **Lectures/** – Jupyter notebooks from lectures  
-- **Conclusions/** – Short summaries and reflections  
+- **Conclusions/** – Solutions from teacher
 - **Exam/** – Practice material and old tasks  
 - **PycharmProjects/** – Internal PyCharm files (automatically created)
