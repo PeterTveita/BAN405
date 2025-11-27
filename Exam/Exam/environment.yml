@@ -1,0 +1,11 @@
+name: EXAM
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - statsmodels=0.14
+  - matplotlib=3.10
+  - pandas=2.2.3
+  - python=3.13.5
+  - openpyxl
+  - notebook=7.3
